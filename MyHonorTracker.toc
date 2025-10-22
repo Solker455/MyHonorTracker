@@ -1,9 +1,11 @@
 ## Interface: 30300
 ## Title: |cff3399FFMyHonorTracker|r
 ## Notes: Подсчитывает и сохраняет почётные победы в отдельном окне
-## Version: v1.1
-## Author: Spooner (ported)
+## Version: v1.2
+## Author: Spooner
 ## SavedVariables: MyHonorTracker_Data
+## X-Sirus-Update: https://github.com/Solker455/MyHonorTracker/tree/main
+## X-Sirus-Category: 4
 
 DetailWindow.lua
 MyHonorTracker.lua
