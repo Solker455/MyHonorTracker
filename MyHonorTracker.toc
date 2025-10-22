@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff3399FFMyHonorTracker|r
+## Notes: Подсчитывает и сохраняет почётные победы в отдельном окне
+## Version: v1.1
+## Author: Spooner (ported)
+## SavedVariables: MyHonorTracker_Data
+
+DetailWindow.lua
+MyHonorTracker.lua
